@@ -1,0 +1,2 @@
+source /home/migbert/proyectos/esp32c3/Test-oled1/build/gdbinit/symbols
+source /home/migbert/proyectos/esp32c3/Test-oled1/build/gdbinit/connect
